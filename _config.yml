@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            empty-cistern
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      '내가 이해한대로'
 url:              https://empty-cistern.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,12 +15,18 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'empty-cistern'
+  url:            https://github.com/empty-cistern
 
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+
+disqus:
+  shortname: subin-disqus
+
+google_analytics: G-8GPLCXPB1W
+
 
 plugins:
   - jekyll-feed
