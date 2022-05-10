@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Linux
 ---
 
 Another sample category page.
