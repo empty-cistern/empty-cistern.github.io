@@ -1,6 +1,8 @@
 ---
 layout: category
-title: Linux
+title: Server
+category : Server
 ---
+
 
 Another sample category page.
